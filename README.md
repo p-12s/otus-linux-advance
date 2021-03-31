@@ -1,6 +1,6 @@
 # OTUS - Advanced Linux administrator
 
-[01. Terraform](https://github.com/p-12s/otus-linux-advance/tree/master/01)  
+[01. Terraform](https://github.com/p-12s/otus-linux-advance/tree/master/01-terraform)  
 [02. ](https://github.com/p-12s/otus-linux-advance/tree/master/02)  
 [03. ](https://github.com/p-12s/otus-linux-advance/tree/master/03)  
 [04. ](https://github.com/p-12s/otus-linux-advance/tree/master/04)  
