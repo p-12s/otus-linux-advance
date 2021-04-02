@@ -1,10 +1,10 @@
 # OTUS - Advanced Linux administrator
 
 [01. Terraform](https://github.com/p-12s/otus-linux-advance/tree/master/01-terraform)  
-[02. ](https://github.com/p-12s/otus-linux-advance/tree/master/02)  
-[03. ](https://github.com/p-12s/otus-linux-advance/tree/master/03)  
-[04. ](https://github.com/p-12s/otus-linux-advance/tree/master/04)  
-[05. ](https://github.com/p-12s/otus-linux-advance/tree/master/05)  
+[02. Pacemaker & Corosync](https://github.com/p-12s/otus-linux-advance/tree/master/02-pacemaker)  
+[03. HA linux & Pacemaker](https://github.com/p-12s/otus-linux-advance/tree/master/03-ha-linux-and-pacemaker)  
+[04. CEPH](https://github.com/p-12s/otus-linux-advance/tree/master/04-ceph)  
+[05. GlusterFS](https://github.com/p-12s/otus-linux-advance/tree/master/05-glusterfs)  
 [06. ](https://github.com/p-12s/otus-linux-advance/tree/master/06)  
 [07. ](https://github.com/p-12s/otus-linux-advance/tree/master/07)  
 [08. ](https://github.com/p-12s/otus-linux-advance/tree/master/08)  
