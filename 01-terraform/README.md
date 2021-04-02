@@ -1,4 +1,5 @@
 ## Introduction
+[Special repo otus-terraform](https://github.com/p-12s/otus-terraform)  
 Create file main.tf.  
 Format the file: 
 ```
